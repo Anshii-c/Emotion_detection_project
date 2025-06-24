@@ -13,7 +13,7 @@ Creating a machine learning model that can recognize human emotions from audio i
  # The dataset
  makes use of training annotated audio datasets (such as RAVDESS and TESS).  Data ought to be gender-labeled or pre-filtered.
  
- ## 📋 Rules
+ ## Rules
  Voice input should take less than ten seconds.
  The GUI should give clear status feedback (processing, success, retry) when non-female voices are heard.
 
