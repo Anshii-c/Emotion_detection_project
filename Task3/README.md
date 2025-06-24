@@ -12,8 +12,8 @@ Creating a machine learning model that can recognize human emotions from audio i
  Emotion prediction display in real time - Simple, clean graphical user interface utilizing `Tkinter`.
  # The dataset
  makes use of training annotated audio datasets (such as RAVDESS and TESS).  Data ought to be gender-labeled or pre-filtered.
- 
- ## Rules
+ - You can access it from the official RAVDESS repository.
+## Rules
  Voice input should take less than four seconds.
  The GUI should give clear status feedback (processing, success, retry) when non-female voices are heard.
 
