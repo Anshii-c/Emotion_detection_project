@@ -1,4 +1,4 @@
-# Task 1:Emotion Detection through Voice
+# Task 3 :Emotion Detection through Voice
 
 Creating a machine learning model that can recognize human emotions from audio inputs is the goal of this project.  Using recorded input through an intuitive graphical user interface (GUI) and voice notes that are uploaded, the model is made to only work with **female voices**.
 
