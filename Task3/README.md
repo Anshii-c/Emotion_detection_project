@@ -5,7 +5,10 @@ Creating a machine learning model that can recognize human emotions from audio i
  # The goals:
  Train a model to categorize voice samples into different emotional states, such as neutral, angry, sad, and happy.
  Be sure to use gender filtering:  Voice inputs are exclusively accepted from females.
- Create a graphical user interface (GUI) that facilitates simple interaction, with features like: 📤 Upload voice notes - 🎙️ Record new voice input - 💬  Show the anticipated emotion or ask the user to try again if the voice is not female.
+ Create a graphical user interface (GUI) that facilitates simple interaction, with features like: 
+ - Upload voice notes 
+ - Record new voice input
+ - Show the anticipated emotion or ask the user to try again if the voice is not female.
 
  The audio preprocessing (MFCC extraction, silence removal) is one of the features.
  Logic for gender verification prior to emotion inference
